@@ -1,0 +1,2 @@
+# Intentionally pinned to a vulnerable release for the initial Snyk scan.
+urllib3==1.26.4
